@@ -6,7 +6,7 @@ __________________________________________________________________________
 
 ## Instructions : ##
 
--sounds est un dossier contenant tous les sons devant être joués par Voiceplay. Chaque nom fichier doit être précédé
+* sounds est un dossier à créer contenant tous les sons devant être joués par Voiceplay. Chaque nom fichier doit être précédé
 par un numéro (ex 1xxxx.mp3) pour être reconnu par Voiceplay. Ce numéro permet d'organiser les sons et correspond au numéro
 de la ligne dans la grille dans laquelle sont présentés les sons.
 
