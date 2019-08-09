@@ -32,7 +32,6 @@ class VoicePlay(App):
 
     def build(self):
         self.title = 'VoicePlay'
-        self.icon = 'icon.ico'
         self.sm = ScreenManager()
 
         self.layout_names = [name for name in os.listdir(PATH)]
@@ -170,7 +169,7 @@ class VoicePlay(App):
         return
 
 
-Config.set('kivy', 'window_icon', 'icon.png')
+Config.set('kivy', 'window_icon', 'icon.ico')
 Config.set('graphics', 'width', str(800))
 Config.set('graphics', 'height', str(400))
 VoicePlay().run()
