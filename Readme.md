@@ -1,7 +1,7 @@
 Réalisé par Fabien Couthouis - Stagiaire Conseil Digital Covéa, été 2019
 
 VoicePlay est un petit utilitaire pour réaliser une synthèse vocale à partir de texte (Text2Speech) et lire
-les sons ainsi crées. VoicePlay a été utilisé pour réaliser les tests utilisateurs Voicebot prise de rdv en Juillet 2019
+les sons ainsi créés. VoicePlay a été utilisé pour réaliser les tests utilisateurs Voicebot prise de rdv en Juillet 2019
 __________________________________________________________________________
 
 ## Instructions : ##
