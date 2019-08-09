@@ -4,7 +4,7 @@ VoicePlay est un petit utilitaire pour réaliser une synthèse vocale à partir 
 les sons ainsi crées. VoicePlay a été utilisé pour réaliser les tests utilisateurs Voicebot prise de rdv en Juillet 2019
 __________________________________________________________________________
 
-## Intructions : ##
+## Instructions : ##
 
 -sounds est un dossier contenant tous les sons devant être joués par Voiceplay. Chaque nom fichier doit être précédé
 par un numéro (ex 1xxxx.mp3) pour être reconnu par Voiceplay. Ce numéro permet d'organiser les sons et correspond au numéro
