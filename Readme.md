@@ -5,8 +5,8 @@ VoicePlay est un petit utilitaire pour réaliser une synthèse vocale à partir 
 les sons ainsi créés. VoicePlay a été utilisé pour réaliser les tests utilisateurs Voicebot prise de rdv en Juillet 2019
 __________________________________________________________________________
 
-<img src="https://github.com/Fabien-Couthouis/VoicePlay/blob/master/screenshots/main_screen.png" alt="icon" width="100"/>
-<img src="https://github.com/Fabien-Couthouis/VoicePlay/blob/master/screenshots/add_text.png" alt="icon" width="100"/>
+<img src="https://github.com/Fabien-Couthouis/VoicePlay/blob/master/screenshots/main_screen.png" alt="icon" width="400"/>
+<img src="https://github.com/Fabien-Couthouis/VoicePlay/blob/master/screenshots/add_text.png" alt="icon" width="400"/>
 
 ## Instructions : ##
 
